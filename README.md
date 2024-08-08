@@ -18,13 +18,13 @@ This mobile application is designed for smart irrigation management, created dur
 
 **Soil Sensor Dashboard**
 
-<img src="assets/3.jpg" width="300" height="200" alt="Soil Sensor Dashboard">
+<img src="assets/3.jpg" height="800" alt="Soil Sensor Dashboard">
 
 **Irrigation History**
 
-<img src="assets/1.jpg" width="300" height="200" alt="Irrigation History">
+<img src="assets/1.jpg" height="800" alt="Irrigation History">
 
 **Solenoid Valve Control**
 
-<img src="assets/1.jpg" width="300" height="200" alt="Solenoid Valve Control">
+<img src="assets/1.jpg"  height="800" alt="Solenoid Valve Control">
 
